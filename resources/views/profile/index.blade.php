@@ -9,6 +9,15 @@
 </head>
 <body class="profile-page bg-white text-gray-900 font-sans antialiased">
 
+    <div class="splash-screen" data-splash-screen role="status" aria-live="polite" hidden>
+        <div class="splash-content">
+            <span class="splash-eyebrow">PERSONAL PORTFOLIO</span>
+            <p class="splash-mark" aria-hidden="true">FLATAMA<span>.</span></p>
+            <span class="splash-caption">MENYIAPKAN TAMPILAN</span>
+            <span class="splash-progress" aria-hidden="true"><span></span></span>
+        </div>
+    </div>
+
     <!-- Navbar -->
     <nav class="site-nav fixed w-full bg-white z-50">
         <div class="site-nav-inner">
