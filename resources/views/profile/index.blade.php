@@ -65,7 +65,7 @@
             </div>
 
             <a href="#about" class="hero-scroll" data-reveal><span></span>SCROLL TO EXPLORE</a>
-            <div class="hero-side-mark" aria-hidden="true">01 / 04</div>
+            <!--<div class="hero-side-mark" aria-hidden="true">01 / 04</div>-->
         </div>
     </section>
 
