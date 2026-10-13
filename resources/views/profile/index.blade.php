@@ -72,7 +72,7 @@
     <!-- About Section -->
     <section id="about" class="profile-section py-20 bg-white">
         <div class="max-w-4xl mx-auto px-4 text-center">
-            <p class="section-index" data-reveal>01 — ABOUT ME</p>
+            <p class="section-index" data-reveal>01  ABOUT ME</p>
             <h2 class="text-3xl font-bold text-gray-900 mb-6" data-reveal>Tentang Saya</h2>
             <p class="text-lg text-gray-600 leading-relaxed" data-reveal data-delay="100">
                 Saya adalah mahasiswa STKIP PGRI Pacitan yang senang belajar dan terus bertumbuh. Di luar kegiatan kuliah, saya membuat website sebagai proyek sampingan—ruang untuk bereksperimen, mengasah kemampuan, dan mewujudkan ide menjadi sesuatu yang bisa digunakan. Bagi saya, setiap halaman yang dibangun adalah kesempatan baru untuk belajar dan memberi manfaat.
@@ -92,7 +92,7 @@
     <!-- Portfolio Section -->
     <section id="portfolio" class="profile-section py-20 bg-gray-50">
         <div class="max-w-6xl mx-auto px-4">
-            <p class="section-index text-center" data-reveal>02 — SELECTED PROJECTS</p>
+            <p class="section-index text-center" data-reveal>02  SELECTED PROJECTS</p>
             <h2 class="text-3xl font-bold text-center text-gray-900 mb-12" data-reveal>Karya & Proyek</h2>
             
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -126,7 +126,7 @@
     <!-- Contact Section -->
     <section id="contact" class="profile-section py-20 bg-white">
         <div class="max-w-4xl mx-auto px-4 text-center">
-            <p class="section-index" data-reveal>03 — GET IN TOUCH</p>
+            <p class="section-index" data-reveal>03  GET IN TOUCH</p>
             <h2 class="text-3xl font-bold text-gray-900 mb-6" data-reveal>Mari Bekerja Sama</h2>
             <p class="text-lg text-gray-600 mb-8" data-reveal data-delay="100">
                 Punya ide website, ingin bertukar pikiran, atau belajar bersama? Saya senang membuka percakapan dan menjajaki kolaborasi yang cocok.
