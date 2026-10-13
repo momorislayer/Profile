@@ -59,8 +59,10 @@ if (splashScreen) {
 	splashScreen.hidden = false;
 
 	if (reducedMotion) {
-		splashScreen.remove();
-		initializeRevealAnimations();
+		window.setTimeout(() => {
+			splashScreen.remove();
+			initializeRevealAnimations();
+		}, 900);
 	} else {
 		let dismissalStarted = false;
 

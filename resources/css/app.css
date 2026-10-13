@@ -7,6 +7,22 @@
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
+@font-face {
+    font-family: 'Instrument Sans';
+    font-style: normal;
+    font-weight: 400 700;
+    font-display: swap;
+    src: url('../fonts/instrument-sans-latin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400 700;
+    font-display: swap;
+    src: url('../fonts/oswald-latin.woff2') format('woff2');
+}
+
 html {
     scroll-padding-top: 5rem;
 }
@@ -56,7 +72,7 @@ body {
 
 .splash-mark {
     margin: 0;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: clamp(3.5rem, 12vw, 6rem);
     line-height: 0.9;
     animation: splash-mark-in 700ms cubic-bezier(.2, .75, .25, 1) both;
@@ -146,7 +162,7 @@ body {
 .site-brand {
     display: inline-block;
     color: #111;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 1.15rem;
     transition: transform 220ms ease;
 }
@@ -265,7 +281,7 @@ body {
 .hero-title {
     margin: 0 0 1rem;
     color: #050505;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 7.5rem;
     line-height: 0.88;
     text-transform: uppercase;
@@ -486,7 +502,7 @@ body {
 }
 
 .profile-section h2 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
 }
 
